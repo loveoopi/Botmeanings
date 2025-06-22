@@ -5,7 +5,7 @@ from telegram.error import TelegramError
 import asyncio
 
 # Replace with your bot token
-TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with the token from BotFather
+TOKEN = "7682949902:AAFR0laB7t7gROOBWRh1OvmWeR5gc_wmlgo"  # Replace with the token from BotFather
 # Replace with your channel ID (e.g., "@YourChannelName" or chat ID for private channels)
 CHANNEL_ID = "https://t.me/share/url?url=%20JOIN%20THIS%20AMAZING%20GROUP%20%F0%9F%A5%B5%20-%20https%3A%2F%2Ft.me/DESIGNBYKINGBOT"  # Replace with your channel's username or ID
 # Replace with the force-join channel link
